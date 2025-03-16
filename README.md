@@ -1,3 +1,5 @@
+This is the link to the game: https://scrapyard-project-sa.vercel.app/
+
 # Whack-a-Mole Game
 
 A fun browser-based whack-a-mole game with sound effects and increasing difficulty!
